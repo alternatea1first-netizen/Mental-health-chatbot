@@ -9,13 +9,13 @@ This chatbot is made for:
 
 2)People who have self-harming thoughts
 
-3) People whose freedom has been curatiled
+3)People whose freedom has been curatiled
  
 4)People who are in a bad mood
 
-5) Adressing stress
+5)Adressing stress
  
-6) Adressing anxiety
+6)Adressing anxiety
 
 
 7)Adressing relationship problems
